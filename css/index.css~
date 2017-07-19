@@ -1,0 +1,4 @@
+body {
+background: url("../assets/background.jgp");
+background-size: 100% 100%;
+}
